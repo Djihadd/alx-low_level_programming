@@ -19,7 +19,7 @@ int main(void)
 		digit++;
 	}
 
-	putchar("\n"à;
+	putchar("\n");
 
 	return (0);
 }
