@@ -13,14 +13,10 @@
 
 int main(void)
 {
-	int n;
+	int n, digit;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	int digit;
-
-	printf("Enter an integer: ");
-	scanf("%d", &n);
 
 	digit = n % 10;
 	if (digit > 5)
