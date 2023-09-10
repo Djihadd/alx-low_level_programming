@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- * main - Entry pointn 
+ * main - Entry point
  *
- * Description: A C program that prints with printf function.
+ * Description: prints exactly
+ *         Programming is like building a multilingual puzzle.
  *
  * Return: Always 0 (Success)
 */
