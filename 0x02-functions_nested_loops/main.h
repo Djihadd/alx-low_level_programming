@@ -11,4 +11,5 @@ int _isalpha(int c);
 void times_table(void);
 int print_sign(int n);
 int _abs(int);
+int print_last_digit(int);
 #endif
