@@ -17,7 +17,7 @@ void times_table(void)
 		for (ult = 1; ult <= 9; ult++)
 		{
 			_putchar(',');
-			_putcha(' ');
+			_putchar(' ');
 
 			prod = nu * ult;
 
