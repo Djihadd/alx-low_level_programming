@@ -11,7 +11,7 @@
 
 int main(void)
 {
-	int count, initial;
+	int count, initial, numLength;
 
 	unsigned long f1 = 1, f2 = 2, su, mx = 100000000, flo = 0, f2o = 0, suo = 0;
 
