@@ -19,7 +19,7 @@ int main(void)
 	{
 		if (flo > 0)
 			printf("%lu", flo);
-		initial = numLengh(mx) - 1 - numLength(f1);
+		initial = numLength(mx) - 1 - numLength(f1);
 
 		while (flo > 0 && initial > 0)
 		{
