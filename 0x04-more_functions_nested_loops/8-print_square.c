@@ -4,7 +4,7 @@
  * print_square -  function that prints a square
  *
  * @size:  the size of the square
- * 
+ *
  * Return: 0 (success)
 */
 
