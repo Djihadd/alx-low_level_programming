@@ -18,10 +18,9 @@ char *_strstr(char *haystack, char *needle)
 	{
 		for (jtr = 0; jtr < 8; jtr++)
 		{
-			for (jtr = 0; jtr < 8; jtr++)
-			{
-				_putchar(a[itr][jtr]);
-			}}
+			_putchar(a[itr][jtr]);
+		}
 		_putchar('\n');
 	}
+
 }
