@@ -1,7 +1,7 @@
 #include"main.h"
 
 /**
- * _strstr - function that locates a substring.
+ * print_chessboard - function that prints the chessboard.
  *
  * @a: input pointer
  *
